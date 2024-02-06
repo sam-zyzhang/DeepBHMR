@@ -2,4 +2,6 @@
 
 DeepBHMR: Learning Bidirectional Hybrid Mixture Models for Generalized Global Rigid Point Set Registration
 
-## We will release our code upon acceptance!
+The repository offers the official implementation of our paper in PyTorch.
+
+### We will release our all code soon!!!
